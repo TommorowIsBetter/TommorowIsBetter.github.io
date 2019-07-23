@@ -30,7 +30,7 @@ span {
 }
 
 .label-value{
-    width: 200px;
+    width: 160px;
     vertical-align: top;
 }
 
@@ -136,7 +136,7 @@ p {
 progress {
     background-color: #f6f6f6;
     display: inline;
-    /*width: 195px;*/
+    width: 120px;
     height: 1em;
 
 }
@@ -170,11 +170,11 @@ progress::-moz-progress-value {
 }
 
 .weixin{
-    margin-top: 20px;
+    margin-top: 0px;
     background-color: #e0eaf0;   
     position: relative;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     text-align: center;
 }
 
@@ -182,12 +182,13 @@ progress::-moz-progress-value {
     width: 200px;
 }
 
-.left-label-programe {
-    display: inline-block;
-    width: 80px;
-}
 
 .left-label {
+    display: inline-block;
+    width: 90px;
+}
+
+.left-label-programe {
     display: inline-block;
     width: 90px;
 }
